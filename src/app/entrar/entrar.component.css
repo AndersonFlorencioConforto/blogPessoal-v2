@@ -1,7 +1,29 @@
-#img-bg{
-    background-image: url(https://wallpapercave.com/wp/wp1827003.jpg);
-    min-height: 937px;
-    background-position:right;
-    background-repeat: no-repeat;
-    background-size:cover;
+.bg{
+    background-color: #e5dad0
 }
+input{
+    background-color: #EFEFED;
+    border-radius: 20px;
+}
+.border-radius{
+    border-radius: 20px;
+}
+.border-modal{
+    border-radius: 40px;
+}
+.backgroundbotton{
+    background-color: #EFEFED;
+    border: none;
+}
+ .linha-vertical {
+     height: 1px;
+    border-left: 1px solid;
+  }
+
+.modal-content{
+    border: none;
+}
+
+
+
+
