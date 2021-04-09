@@ -7,7 +7,6 @@ import { Component, Input, OnInit } from '@angular/core';
   styleUrls: ['./alertas.component.css']
 })
 export class AlertasComponent implements OnInit {
-
   @Input() message: string
   @Input() type: string = 'success'
 
